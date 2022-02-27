@@ -42,7 +42,7 @@ def decrypt(filename, key):
 # загрузить ключ
 key = load_key()
 # имя шифруемого файла
-file = 'd:\\t.doc'
+file = 't.doc'
 #зашифровать файл
 #encrypt(file, key)
 # расшифровать файл
